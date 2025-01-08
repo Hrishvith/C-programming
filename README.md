@@ -1,2 +1,4 @@
 # C-programming
-c programming
+## Functions
+## Pointers
+## Array
