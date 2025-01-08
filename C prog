@@ -2,4 +2,8 @@
 #include<stdlib.h>
 int main(){
 printf("Hello");
+int a=5;
+int b=4;
+int c=a+b;
+printf("%d",c);
 }
