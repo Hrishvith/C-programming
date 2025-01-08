@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main(){
+printf("Hello");
+int a=5;
+int b=98;
+printf("%d",c);
+}
